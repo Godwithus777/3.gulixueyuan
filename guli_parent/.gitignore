@@ -36,4 +36,7 @@ build/
 .idea
 .mvn
 mvnw.cmd
+target
+**/*.yml
+
 
